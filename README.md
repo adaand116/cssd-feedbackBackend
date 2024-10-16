@@ -21,7 +21,7 @@ Exponerar två endpoints: `/getPosts` och `/addPost`
 | pageId    | Page node identifier           | string | Yes      |
 | content   | Feedback content in plain text | string | Yes      |
 
-At the time of writing this README this RESTApp can be tested at [edu-dev10.sitevision-cloud.se](https://edu-dev10.sitevision-cloud.se)
+Vid tidpunkten denna README skrevs kan denna WebApp testas på [edu-dev10.sitevision-cloud.se](https://edu-dev10.sitevision-cloud.se)
 
 ## Installation and running
 
