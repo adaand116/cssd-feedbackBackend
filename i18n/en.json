@@ -1,0 +1,9 @@
+{
+  "settings": "Settings",
+  "authRequried": "Authentication required",
+  "permissionDenied": "Permission denied",
+  "missingParams": "Missing parameters",
+  "canNotBeEmpty": "Field can not be empty",
+  "invalidEmail": "Invalid email, make sure you have entered a valid email address with @ and a domain",
+  "feedbackRecipient": "E-mail to feedback recipient"
+}

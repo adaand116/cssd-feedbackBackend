@@ -1,0 +1,20 @@
+{
+  "id": "feedbackBackend",
+  "version": "0.0.1",
+  "name": {
+    "en": "Feedback Backend",
+    "sv": "Feedback Backend"
+  },
+  "author": "Sitevision",
+  "description": {
+    "en": "Backend for feedback WebApp",
+    "sv": "Backend för feedback WebApp"
+  },
+  "helpUrl": "",
+  "type": "RESTApp",
+  "bundled": true,
+  "maxUploadSizeInMB": 5,
+  "storage": {
+    "collectionDataStore": "feedback"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "settings": "Inställningar",
+  "authRequired": "Autentisering krävs",
+  "permissionDenied": "Åtkomst nekad",
+  "missingParams": "Saknas parametrar",
+  "canNotBeEmpty": "Fältet kan inte vara tomt",
+  "invalidEmail": "Ogiltig e-postadress, se till att du har angett en giltig e-postadress med @ och en domän",
+  "feedbackRecipient": "E-postadress till ansvarig för feedback"
+}
